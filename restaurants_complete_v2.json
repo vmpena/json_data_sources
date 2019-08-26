@@ -1,0 +1,102 @@
+{"index":{"_id":"5"}}
+{"id":"5", "name":"McDonalds", "city":"Atlanta", "type":"Fast Food", "state":"Georgia", "tags":["hamburgers", "coffee", "wi-fi", "breakfast"], "price":4.00}
+{"index":{"_id":"6"}}
+  {"id":"6", "name":"Lone Star Cafe", "city":"New York", "type":"Bar/Restaurant", "state":"New York", "tags":["southern cuisine", "hamburgers", "coffee", "live music", "drinks"], "price":14.00}
+{"index":{"_id":"7"}}
+  {"id":"7", "name":"Plants and More", "city":"Westlake", "type":"Casual", "state":"California", "tags":["healthy", "gluten-free", "wi-fi", "breakfast"], "price":4.00}
+{"index":{"_id":"8"}}
+  {"id":"8", "name":"EJ's Tone Shack", "city":"Austin", "type":"Fast Food", "state":"Texas", "tags":["appetizers", "coffee", "live music", "drinks"], "price":4.00}
+{"index":{"_id":"9"}}
+  {"id":"9", "name":"Tio Pepe's", "city":"Miami", "type":"Upscale", "state":"Florida", "tags":["spanish", "tapas", "mediterranean", "drinks"], "price":19.00}
+{"index":{"_id":"10"}}
+  {"id":"10", "name":"Bean Burger Buffet", "city":"Miami", "type":"Casual", "state":"Florida", "tags":["healthy", "gluten-free", "live music"], "price":24.00}
+{"index":{"_id":"1"}}
+  {"id":"11", "name":"Stratocasters", "city":"Austin", "type":"Casual", "state":"Texas", "tags":["pizza", "delivery"], "price":18.00}
+{"index":{"_id":"12"}}
+  {"id":"12", "name":"Freddy's Pizza Shop", "city":"Los Angeles", "type":"Local Sit-down", "state":"California", "tags":["pizza", "pasta", "italian"], "price":25.00}
+{"index":{"_id":"13"}}
+  {"id":"13", "name":"The Iberian Horse", "city":"Atlanta", "type":"Upscale", "state":"Georgia", "tags":["spanish", "tapas", "mediterranean", "drinks"], "price":45.00}
+{"index":{"_id":"14"}}
+  {"id":"14", "name":"Sunset Bar", "city":"Key West", "type":"Casual", "state":"Florida", "tags":["outdoors", "sunset views", "drinks"], "price":15.00}
+{"index":{"_id":"15"}}
+  {"id":"15", "name":"Starbucks", "city":"San Francisco", "type":"Coffee Shop", "state":"California", "tags":["coffee", "breakfast"], "price":7.50}
+{"index":{"_id":"16"}}
+  {"id":"16", "name":"Starbucks", "city":"Atlanta", "type":"Coffee Shop", "state":"Georgia", "tags":["coffee", "breakfast"], "price":4.00}
+{"index":{"_id":"17"}}
+  {"id":"17", "name":"Starbucks", "city":"Freehold", "type":"Coffee Shop", "state":"New Jersey", "tags":["coffee", "breakfast"], "price":6.50}
+{"index":{"_id":"18"}}
+  {"id":"18", "name":"Ultraman Bistro", "city":"Westlake", "type":"Coffee Shop", "state":"California", "tags":["coffee", "breakfast", "wi-fi"], "price":6.00}
+{"index":{"_id":"19"}}
+  {"id":"19", "name":"Jingle Joe's", "city":"Austin", "type":"Coffee Shop", "state":"Texas", "tags":["coffee", "breakfast","healthy"], "price":5.50}
+{"index":{"_id":"20"}}
+  {"id":"20", "name":"Brenda's Coffee Bistro", "city":"Colombia", "type":"Coffee Shop", "state":"South Carolina", "tags":["coffee", "breakfast", "live music", "healthy"], "price":7.00}
+{"index":{"_id":"21"}}
+  {"id":"21", "name":"Starbucks", "city":"Miami Beach", "type":"Coffee Shop", "state":"Florida", "tags":["coffee", "breakfast", "south beach"], "price":6.50}
+{"index":{"_id":"22"}}
+  {"id":"22", "name":"Starbucks", "city":"Coral Gables", "type":"Coffee Shop", "state":"Florida", "tags":["coffee", "breakfast"], "price":6.00}
+{"index":{"_id":"23"}}
+  {"id":"23", "name":"Pepito's", "city":"Miami", "type":"Casual", "state":"Florida", "tags":["cuban food", "lunch", "little havana"], "price":5.00}
+{"index":{"_id":"24"}}
+  {"id":"24", "name":"Pepito's", "city":"Hialeah", "type":"Casual", "state":"Florida", "tags":["cuban food", "breakfast"], "price":3.00}
+{"index":{"_id":"25"}}
+  {"id":"25", "name":"Pepito's", "city":"Miami Beach", "type":"Casual", "state":"Florida", "tags":["cuban food", "breakfast", "cuban food"], "price":3.00}
+{"index":{"_id":"26"}}
+  {"id":"26", "name":"Havana 1957", "city":"Miami Beach", "type":"Upscale", "state":"Florida", "tags":["cuban food", "fine dining", "south beach"], "price":30.00}
+{"index":{"_id":"27"}}
+  {"id":"27", "name":"Barton G. The Restaurant", "city":"Miami Beach", "type":"Upscale", "state":"Florida", "tags":["sea food", "international", "south beach" ], "price":35.00}
+{"index":{"_id":"28"}}
+{"id":"28", "name":"Yardbird Southern Table & Bar", "city":"Miami Beach", "type":"Casual", "state":"Florida", "tags":["southern cuisine", "live music"], "price":16.00}
+{"index":{"_id":"29"}}
+{"id":"29", "name":"Angelo's Pizzeria", "city":"Beechurst", "type":"Local Sit-down", "state":"New York", "tags":["pizza", "pasta", "drinks", "appetizers"], "price":12.00}
+{"index":{"_id":"30"}}
+{"id":"30", "name":"The Beanery", "city":"Miami", "type":"Coffee Shop", "state":"Florida", "tags":["coffee", "breakfast", "wi-fi"], "price":5.00}
+{"index":{"_id":"31"}}
+{"id":"31", "name":"The Beanery", "city":"Coral Gables", "type":"Coffee Shop", "state":"Florida", "tags":["coffee", "breakfast", "wi-fi"], "price":5.00}
+{"index":{"_id":"32"}}
+{"id":"32", "name":"Steve's Roadside Grill", "city":"Augusta", "type":"Casual", "state":"Georgia", "tags":["hamburgers", "wi-fi", "live music"], "price":8.00}
+{"index":{"_id":"33"}}
+{"id":"33", "name":"The Lido Bayside Grill", "city":"Miami Beach", "type":"Casual", "state":"Florida", "tags":["healthy", "water view"], "price":25.00}
+{"index":{"_id":"34"}}
+{"id":"34", "name":"Federici's Family Italian Restaurant", "city":"Freehold", "type":"Local Sit-down", "state":"New Jersey", "tags":["italian", "pizza", "delivery", "live music"], "price":15.00}
+{"index":{"_id":"35"}}
+{"id":"35", "name":"Moonstruck", "city":"Asbury Park", "type":"Upscale", "state":"New Jersey", "tags":["fine dining", "mediterranean", "live music"], "price":5.00}
+{"index":{"_id":"36"}}
+{"id":"36", "name":"55 Bar", "city":"New York", "type":"Bar/Restaurant", "state":"New York", "tags":["drinks", "appetizers", "live music"], "price":20.00}
+{"index":{"_id":"37"}}
+{"id":"37", "name":"Capital Grill", "city":"Miami", "type":"Bar/Restaurant", "state":"Florida", "tags":["drinks", "appetizers", "live music"], "price":15.00}
+{"index":{"_id":"38"}}
+{"id":"38", "name":"Joe's Stone Crab", "city":"Miami Beach", "type":"Upscale", "state":"Florida", "tags":["sea food", "appetizers", "drinks", "south beach"], "price":45.00}
+{"index":{"_id":"40"}}
+{"id":"40", "name":"Alter", "city":"Miami", "type":"Casual", "state":"Florida", "tags":["wynwood", "sea food", "drinks"], "price":18.00}
+{"index":{"_id":"41"}}
+{"id":"41", "name":"Blue Heaven", "city":"Key West", "type":"Casual", "state":"Florida", "tags":["drinks", "appetizers", "sea food"], "price":15.00}
+{"index":{"_id":"42"}}
+{"id":"42", "name":"El Mago De Las Fritas", "city":"Miami", "type":"Casual", "state":"Florida", "tags":["cuban food", "little havana"], "price":12.50}
+{"index":{"_id":"43"}}
+{"id":"43", "name":"The Stone Pony", "city":"Asbury Park", "type":"Bar/Restaurant", "state":"New Jersey", "tags":["drinks", "appetizers", "live music"], "price":25.00}
+{"index":{"_id":"44"}}
+{"id":"44", "name":"Mandolin Aegean Bistro", "city":"Miami", "type":"Upscale", "state":"Florida", "tags":["fine dining", "mediterranean", "drinks"], "price":28.00}
+{"index":{"_id":"45"}}
+{"id":"45", "name":"Iron Skillet", "city":"Miami", "type":"Casual", "state":"Florida", "tags":["wynwood", "international"], "price":38.00}
+{"index":{"_id":"46"}}
+{"id":"46", "name":"Minor Second", "city":"Miami, FL", "type":"Bar/Restaurant", "state":"Florida", "tags":["wynwood", "live music", "drinks", "appetizers"], "price":25.00}
+{"index":{"_id":"47"}}
+{"id":"47", "name":"Pepito Grillo's", "city":"Miami", "type":"Upscale", "state":"Florida", "tags":["spanish", "tapas", "mediterranean", "drinks","wynwood"], "price":30.00}
+{"index":{"_id":"48"}}
+{"id":"48", "name":"Sunrise Harvest", "city":"San Francisco", "type":"Casual", "state":"California", "tags":["vegetarian", "gluten-free", "healthy"], "price":11.50}
+{"index":{"_id":"49"}}
+{"id":"49", "name":"Sunfresh Juices", "city":"San Francisco", "type":"Casual", "state":"California", "tags":["vegetarian", "gluten-free", "healthy", "wi-fi"], "price":18.00}
+{"index":{"_id":"50"}}
+{"id":"50", "name":"Watershine", "city":"Los Angeles", "type":"Casual", "state":"California", "tags":["vegetarian", "live music", "healthy", "coffee"], "price":10.00}
+{"index":{"_id":"51"}}
+{"id":"51", "name":"Rusty Pelican", "city":"Miami", "type":"Upscale", "state":"Florida", "tags":["water view", "sea food", "fine dining"], "price":30.00}
+{"index":{"_id":"52"}}
+{"id":"52", "name":"Red Fish Grill", "city":"Miami", "type":"Upscale", "state":"Florida", "tags":["water view", "sea food", "mediterranean"], "price":40.00}
+{"index":{"_id":"53"}}
+{"id":"53", "name":"Monty's", "city":"Miami", "type":"Casual", "state":"Florida", "tags":["water view", "sea food", "live music"], "price":15.00}
+{"index":{"_id":"54"}}
+{"id":"54", "name":"Lemon Mediterranean Restaurant", "city":"Freehold, "type":"Local Sit-down", "state":"New Jersey", "tags":["mediterranean", "sea food"], "price":18.00}
+{"index":{"_id":"55"}}
+{"id":"55", "name":"San Marzano Trattoria", "city":"Freehold", "type":"Local Sit-down", "state":"New Jersey", "tags":["italian", "pizza", "drinks"], "price":15.00}
+{"index":{"_id":"56"}}
+{"id":"56", "name":"Sweet Lews Cafe", "city":"Freehold", "type":"Coffee Shop", "state":"New Jersey", "tags":["coffee", "breakfast", "wi-fi"], "price":12.00}
